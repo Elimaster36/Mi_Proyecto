@@ -1,5 +1,5 @@
 // Variables de estilo
-$background-color: #ec0000;
+$background-color: #00b5ec;
 $title-font-size: 2.5em;
 $datetime-font-size: 1.5em;
 $button-size: 80px;
@@ -9,7 +9,7 @@ $button-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 
 // Estilo global para ion-content
 ion-content {
-  background-color: $background-color;
+  --background: rgb(0, 195, 255);
   display: flex;
   flex-direction: column;
   justify-content: center;
